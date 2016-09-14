@@ -1,6 +1,6 @@
 #include <stdio.h>
 int i, N, buf;
-int a[100];
+int a[90];
 void Merge(int l, int m, int r) {
 	int l1,l2;
 	int buff[100];
